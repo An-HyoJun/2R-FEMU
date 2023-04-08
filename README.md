@@ -7,10 +7,10 @@ A QEMU-based and DRAM-backed NVMe SSD Emulator
 https://github.com/vtess/FEMU
 
 # Greedy
-Original FTL provided by Cosmos board
+Original FTL provided by FEMU
 
 # 2R
-Ported version of 2R FTL code to Cosmos board
+Ported version of 2R FTL code to FEMU
 
 # 2R++B
 2R++ block version algorithm
